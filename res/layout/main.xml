@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/logo"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+	        style="@style/styleTitle"
+            android:id="@+id/textoTitulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/_clinicaNom" >
+            <requestFocus />
+        </TextView>
+        <Button
+	        style="@style/styleButtons"
+	        android:id="@+id/btMyMascots"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/_misMascotas" />  
+        <Button
+	        style="@style/styleButtons"
+	        android:id="@+id/btCitas"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/_proximasCitas" />
+        <Button
+	        style="@style/styleButtons"
+	        android:id="@+id/btSolicitar"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/_solicitarCita" />
+        <Button
+	        style="@style/styleButtons"
+	        android:id="@+id/btSalir"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/_salir" />
+    </LinearLayout>
+
+</LinearLayout>

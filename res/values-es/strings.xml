@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MisMascotas!</string>
+    <string name="app_name">MyMascots v 1.0</string>
+    <string name="_clinicaNom">Clinica Veterinaria Android</string>
+    <string name="_clinicaDireccio">Carrer Major, Veracruz de la calzada  (Twain)</string>
+    <string name="_clinicaTelefon">999999999</string>
+    <string name="_misMascotas">Mis mascotas</string>
+    <string name="_solicitarCita">Solicitar cita</string>
+    <string name="_proximasCitas">Proximas Citas</string>
+    <string name="_salir">Salir</string>
+    <string name="_novaMascota">Nueva mascota</string>
+    <string name="_nom">Nombre</string>
+    <string name="_raza">Raza</string>
+    <string name="_sexe">Sexo</string>
+    <string name="_dataNaixement">Fecha nacimiento</string>
+    <string name="_numChip">Numero chip</string>
+    <string name="_proximaVacuna">Proxima vacuna</string>
+    <string name="_especie">Especie</string>
+    <string name="_castrat">Castrado</string>
+    <string name="_guardar">Guardar</string>
+    <string name="_novaCita">Nueva cita</string>
+    <string name="_tipusCita">Tipo Cita</string>
+    <string name="_data">Fecha</string>
+    <string name="_asumpte">Asunto</string>
+    <string name="_observacions">Observaciones</string>
+    <string name="_Actualitzant">Actualizando</string>
+    <string name="_txtSolicitarCita">Para solicitar una cita previa tiene que llamar a la clinica por telefono.</string>
+    <string name="_cridar">Llamar</string>
+    <string name="_errorLlamada">Se ha producido un error al intentar realizar la llamada telefonica.</string>
+    <string name="_borrar">Eliminar</string>
+    <string name="_citasHoy">Tiene citas para hoy. \n\r\n\r Numero citas : {0}</string>
+    <string name="_avis">Aviso</string>
+</resources>

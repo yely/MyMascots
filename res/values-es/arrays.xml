@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipusCita">
+        <item>Visita general.</item>
+        <item>Vacuna</item>
+        <item>Desparasitar</item>
+        <item>Radiografía</item>
+        <item>Analítica</item>
+        <item>Ecografía</item>
+    </string-array>
+    <string-array name="tipuscitaValores">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="especies">
+        <item>Gato</item>
+        <item>Perro</item>
+    </string-array>
+    <string-array name="especiesValores">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="sexos">
+        <item>Hembra</item>
+        <item>Macho</item>
+    </string-array>
+    <string-array name="sexosValores">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="sino">
+        <item>No</item>
+        <item>Si</item>
+    </string-array>
+    <string-array name="sinoValores">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    
+</resources>

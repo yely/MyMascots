@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MisMascotas!</string>
+    <string name="app_name">MyMascots v 1.0</string>
+    <string name="_clinicaNom">Clinica Veterinaria Android</string>
+    <string name="_clinicaDireccio">Carrer Major, Veracruz de la calzada  (Twain)</string>
+    <string name="_clinicaTelefon">999999999</string>
+    <string name="_misMascotas">Mis mascotas</string>
+    <string name="_solicitarCita">make an appointment</string>
+    <string name="_proximasCitas">Next appointment</string>
+    <string name="_salir">Exit</string>
+    <string name="_novaMascota">New pet</string>
+    <string name="_nom">Name</string>
+    <string name="_raza">Race</string>
+    <string name="_sexe">Sex</string>
+    <string name="_dataNaixement">Birth date</string>
+    <string name="_numChip">Chip number</string>
+    <string name="_proximaVacuna">Next vaccine</string>
+    <string name="_especie">Species</string>
+    <string name="_castrat">Castrated</string>
+    <string name="_guardar">Save</string>
+    <string name="_novaCita">New appointment</string>
+    <string name="_tipusCita">Appointment type</string>
+    <string name="_data">Date</string>
+    <string name="_asumpte">Subject</string>
+    <string name="_observacions">Comments</string>
+    <string name="_Actualitzant">Updating</string>
+    <string name="_txtSolicitarCita">To request an appointment must call the veterinary clinic.</string>
+    <string name="_cridar">Call</string>
+    <string name="_errorLlamada">An error occurred when trying to phone call.</string>
+    <string name="_borrar">Delete</string>
+    <string name="_citasHoy">Have appointments for today. \n\r\n\r number appointments : {0}</string>
+    <string name="_avis">Notice</string>
+</resources>
